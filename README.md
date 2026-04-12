@@ -93,11 +93,11 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 | | |
 |:---|:---|
 | 🎯 **Seeking** | Junior Penetration Tester / Security Analyst |
-| 🌍 **Format** | Remote or Hybrid (EU) |
-| 📜 **Certs** | eJPT · TryHackMe Top 5% · OSCP *(in progress)* |
+| 🌍 **Format** | Remote or Hybrid (EU/RU) |
+| 📜 **Certs** | TryHackMe Top 5% · OSCP *(in progress)* |
 | 🛠 **Stack** | Kali Linux · Burp Suite · Python · Nmap · Metasploit |
-| 📧 **Contact** | your@email.com |
-| 🔗 **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
+| 📧 **Contact** | woma718@email.com tg:@w4m1l|
+
 
 ---
 
