@@ -50,7 +50,7 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 ## 🗺️ Learning Roadmap
 [✅] Основы сетей & Linux ............... CompTIA Network+, Pre-Security Path
 [✅] Web Hacking (OWASP Top 10) ......... Burp Suite, SQLi, XSS, IDOR
-[✅] eJPT Certification ................. Passed ✓
+[✅] Portswigger Academy ................ Repeater, Collaborator
 [🔄] Active Directory & Post-Exploit .... HackTheBox, Metasploit (in progress)
 [⏳] OSCP ............................... Target: 2025
 
