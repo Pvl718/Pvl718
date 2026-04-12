@@ -1,22 +1,14 @@
 <div align="center">
 
-# 🔐 Pvl718
+# 🕶️ woma718
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=500&lines=Security+Researcher+%F0%9F%94%90;CTF+Player+%E2%9A%91;Penetration+Tester+in+progress...;Open+to+Junior+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=>>+whoami;Cybersecurity+Researcher;CTF+Player+%E2%9A%91;Future+OSCP;Hack+the+Planet+%F0%9F%94%A5" />
 
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pvl718&color=39d353&style=for-the-badge&label=PROFILE+VIEWS)
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Junior%20Pentester-39d353?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-Offensive%20Security-f85149?style=for-the-badge)
-![Location](https://img.shields.io/badge/LOCATION-Remote%20%2F%20EU-58a6ff?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0f2027&height=120&section=header"/>
 
 </div>
 
 ---
-
 ```bash
 $ whoami
 cybersecurity_student | ctf_enthusiast | eternal_learner
@@ -58,15 +50,7 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 
 [⏳] OSCP ............................... Target: 2026
 
----
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pvl718&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=10" />
-</div>
-
----
 
 ## 📜 Certifications
 
@@ -79,7 +63,16 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 </div>
 ---
 ---
+---
 
+
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
 ## 🏴‍☠️ CTF Writeups & Research
 
 | Платформа | Тема | Язык | Ссылка |
@@ -128,8 +121,15 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 | 📧 **Contact** | woma718@email.com tg:@w4m1l|
 
 
----
 
 <div align="center">
-  <i>"The quieter you become, the more you are able to hear." — Kali Linux</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ff9c&height=100&section=footer"/>
+
+</div>
+
+<div align="center">
+
+*"The quieter you become, the more you are able to hear."*
+
 </div>
