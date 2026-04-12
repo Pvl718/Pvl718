@@ -64,6 +64,17 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+![eJPT](https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-f85149?style=for-the-badge&logo=target&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-39d353?style=for-the-badge&logo=tryhackme&logoColor=white)
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress...-e3b341?style=for-the-badge&logo=offensive-security&logoColor=white)
+
+</div>
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
