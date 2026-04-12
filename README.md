@@ -88,6 +88,19 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 | PortSwigger | SQL Injection (18 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_RU.md) [ EN](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_EN.md)|
 | PortSwigger | NoSQL Injection (4 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/nosqli_walkthrough_RU.md) [EN](https://github.com/Pvl718/ctf-writeups/blob/main/nosqli_walkthrough_EN.md) |
 | PortSwigger | File Upload Vulnerabilities (7 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/fileupload_walkthrough_RU.md) [EN](https://github.com/Pvl718/ctf-writeups/blob/main/fileupload_walkthrough_EN.md) |
+| PortSwigger |Clickjacking | RU/EN | [в процессе...] |
+| PortSwigger |Web LLM Attacks | RU/EN | [в процессе...] |
+| PortSwigger |Api Testing | RU/EN | [в процессе...] |
+| PortSwigger |XSS | RU/EN | [в процессе...] |
+| PortSwigger |CSRF | RU/EN | [в процессе...] |
+| PortSwigger |XXE injection | RU/EN | [в процессе...] | 
+| PortSwigger | Authentication vulnerabilities | RU/EN | [в процессе...] |
+| PortSwigger |Business logic vulnerabilities | RU/EN | [в процессе...] |
+| PortSwigger |JWT attacks | RU/EN | [в процессе...] |
+| PortSwigger |DOM-based vulnerabilities | RU/EN | [в процессе...] |
+| PortSwigger |OAuth 2.0 authentication vulnerabilities | RU/EN | [в процессе...] |
+| PortSwigger |Access control vulnerabilities and privilege escalation | RU/EN | [в процессе...] |
+
 
 📁 [Все writeups → github.com/Pvl718/ctf-writeups](https://github.com/Pvl718/ctf-writeups)
 
