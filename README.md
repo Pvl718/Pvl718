@@ -74,6 +74,17 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 
 </div>
 ---
+---
+
+## 🏴‍☠️ CTF Writeups & Research
+
+| Платформа | Тема | Язык | Ссылка |
+|-----------|------|------|--------|
+| OverTheWire | Bandit (Levels 0–33) | 🇷🇺 RU | [→ Читать](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_RU.md) |
+| OverTheWire | Bandit (Levels 0–33) | 🇬🇧 EN | [→ Читать](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_EN.md) |
+| PortSwigger | Web Vulnerabilities | 🔄 soon | — |
+
+📁 [Все writeups → github.com/Pvl718/ctf-writeups](https://github.com/Pvl718/ctf-writeups)
 
 ## 📊 GitHub Stats
 
