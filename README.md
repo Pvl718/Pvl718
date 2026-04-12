@@ -49,10 +49,14 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 
 ## 🗺️ Learning Roadmap
 [✅] Основы сетей & Linux ............... CompTIA Network+, Pre-Security Path
+
 [✅] Web Hacking (OWASP Top 10) ......... Burp Suite, SQLi, XSS, IDOR
+
 [✅] Portswigger Academy ................ Repeater, Collaborator
+
 [🔄] Active Directory & Post-Exploit .... HackTheBox, Metasploit (in progress)
-[⏳] OSCP ............................... Target: 2025
+
+[⏳] OSCP ............................... Target: 2026
 
 ---
 
@@ -83,6 +87,7 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 | OverTheWire | Bandit (Levels 0–33) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_RU.md) [EN](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_EN.md)|
 | PortSwigger | SQL Injection (18 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_RU.md) [ EN](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_EN.md)|
 | PortSwigger | NoSQL Injection (4 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/nosqli_walkthrough_RU.md) [EN](https://github.com/Pvl718/ctf-writeups/blob/main/nosqli_walkthrough_EN.md) |
+| PortSwigger | File Upload Vulnerabilities (7 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/fileupload_walkthrough_RU.md) [EN](https://github.com/Pvl718/ctf-writeups/blob/main/fileupload_walkthrough_EN.md) |
 
 📁 [Все writeups → github.com/Pvl718/ctf-writeups](https://github.com/Pvl718/ctf-writeups)
 
