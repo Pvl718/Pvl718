@@ -82,7 +82,7 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 |-----------|------|------|--------|
 | OverTheWire | Bandit (Levels 0–33) | 🇷🇺 RU | [→ Читать](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_RU.md) |
 | OverTheWire | Bandit (Levels 0–33) | 🇬🇧 EN | [→ Читать](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_EN.md) |
-| PortSwigger | Web Vulnerabilities | 🔄 soon | — |
+| PortSwigger | SQL Injection (18 labs) | 🇷🇺 / 🇬🇧 | [→ Читать](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_RU.md) |
 
 📁 [Все writeups → github.com/Pvl718/ctf-writeups](https://github.com/Pvl718/ctf-writeups)
 
