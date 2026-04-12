@@ -81,8 +81,7 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 | Платформа | Тема | Язык | Ссылка |
 |-----------|------|------|--------|
 | OverTheWire | Bandit (Levels 0–33) | RU/EN | [→ Читать RU](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_RU.md) [→ Читать EN](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_EN.md)|
-| OverTheWire | Bandit (Levels 0–33) | EN | [→ Читать](https://github.com/Pvl718/ctf-writeups/blob/main/bandit_walkthrough_EN.md) |
-| PortSwigger | SQL Injection (18 labs) | 🇷🇺 / 🇬🇧 | [→ Читать](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_RU.md) |
+| PortSwigger | SQL Injection (18 labs) | 🇷🇺 / 🇬🇧 | [ Читать RU](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_RU.md) [ Читать EN](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_EN.md)|
 
 📁 [Все writeups → github.com/Pvl718/ctf-writeups](https://github.com/Pvl718/ctf-writeups)
 
