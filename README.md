@@ -1,187 +1,95 @@
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39D353¢er=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shamil+%F0%9F%94%90;Security+Researcher+%26+CTF+Player;Always+learning%2C+always+hacking..." alt="Typing SVG" />
+# 🔐 Pvl718
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=500&lines=Security+Researcher+%F0%9F%94%90;CTF+Player+%E2%9A%91;Penetration+Tester+in+progress...;Open+to+Junior+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
-
-
 
 <div align="center">
 
- <img src="https://komarev.com/ghpvc/?username=Pvl718&color=39d353&style=flat-square&label=profile+views" />
-
- <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20Pentester-39d353?style=flat-square&logo=github" />
-
- <img src="https://img.shields.io/badge/Focus-Offensive%20Security-f85149?style=flat-square&logo=kalilinux" />
-
- <img src="https://img.shields.io/badge/Location-Remote%20%2F%20EU-58a6ff?style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=Pvl718&color=39d353&style=for-the-badge&label=PROFILE+VIEWS)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Junior%20Pentester-39d353?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Offensive%20Security-f85149?style=for-the-badge)
+![Location](https://img.shields.io/badge/LOCATION-Remote%20%2F%20EU-58a6ff?style=for-the-badge)
 
 </div>
 
-
-
 ---
-
-
 
 ```bash
-
 $ whoami
-
 cybersecurity_student | ctf_enthusiast | eternal_learner
 
-
-
 $ cat interests.txt
-
-Penetration Testing · Web Hacking · Network Security ·
-
-
+Penetration Testing · Web Hacking · Network Security · OSINT
 
 $ echo $STATUS
-
 Currently: TryHackMe → HackTheBox → OSCP 🔥
-
 ```
 
-
-
 ---
 
-
-
-## 🛡 Core Skills
-
-
-
-| Area | Level |
-
-|---|---|
-
-| Web Hacking (OWASP Top 10) | ██████░░░░ 50% |
-
-| Network Security | ██████░░░░ 60% |
-
-| Linux / CLI | ████████░░ 80% |
-
-| Python for Security | ██████░░░░ 65% |
-
-| OSINT | ██░░░░░░░░ 10% |
-
-
-
-**Tools:** `Kali Linux` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `SQLMap` `Gobuster`
-
-
-
----
-
-
-
-## 🗺 Learning Roadmap
-
-
-
-- [x] **Основы сетей & Linux** — CompTIA Network+, TryHackMe Pre-Security
-
-- [x] **Web-уязвимости** — OWASP Top 10, Burp Suite, SQLi, XSS, IDOR
-
-- [ ] **Active Directory & Pentest** — HackTheBox, Metasploit *(в процессе 🔄)*
-
-- [ ] **OSCP** — цель 2026
-
-
-
----
-
-
-
-## 🏆 GitHub Trophies
-
-
+## 🛡️ Core Skills
 
 <div align="center">
 
- <img src="https://github-profile-trophy.vercel.app/?username=Pvl718&theme=algolia&no-bg=true&no-frame=true&column=7" />
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
-
-
 
 ---
 
-
-
-## 📊 Stats
-
-
-
-<div align="center">
-
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pvl718&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true" />
-
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pvl718&layout=compact&theme=github_dark_dimmed" />
-
-</div>
-
-
-
-<div align="center">
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pvl718&theme=dark&hide_border=true&stroke=39d353&ring=39d353&fire=f85149" />
-
-</div>
-
-
+## 🗺️ Learning Roadmap
+[✅] Основы сетей & Linux ............... CompTIA Network+, Pre-Security Path
+[✅] Web Hacking (OWASP Top 10) ......... Burp Suite, SQLi, XSS, IDOR
+[✅] eJPT Certification ................. Passed ✓
+[🔄] Active Directory & Post-Exploit .... HackTheBox, Metasploit (in progress)
+[⏳] OSCP ............................... Target: 2025
 
 ---
 
-
-
-## 📈 Activity Graph
-
-
+## 🏆 Trophies
 
 <div align="center">
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pvl718&theme=github-compact&hide_border=true&color=39d353&line=39d353&point=58a6ff" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Pvl718&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=10" />
 </div>
-
-
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pvl718&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pvl718&layout=compact&theme=github_dark_dimmed&hide_border=true" />
+</div>
 
-## 💼 Для рекрутеров
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pvl718&theme=dark&hide_border=true&stroke=39d353&ring=39d353&fire=f85149&currStreakLabel=39d353" />
+</div>
 
+---
 
+## 💼 For Recruiters
 
 | | |
-
-|---|---|
-
-| 🎯 **Ищу роль** | Junior Penetration Tester / Security Analyst |
-
-| 🌍 **Формат** | Удалённо или гибридно (EU) |
-
-| 📜 **Сертификаты** | ADBinstitute/Cubersecurity|
-
-| 🛠 **Стек** | Kali Linux · Burp Suite · Python · Nmap · Metasploit |
-
-| 📧 **Контакт** | woma718@email.com |
-
-
-
-
+|:---|:---|
+| 🎯 **Seeking** | Junior Penetration Tester / Security Analyst |
+| 🌍 **Format** | Remote or Hybrid (EU) |
+| 📜 **Certs** | eJPT · TryHackMe Top 5% · OSCP *(in progress)* |
+| 🛠 **Stack** | Kali Linux · Burp Suite · Python · Nmap · Metasploit |
+| 📧 **Contact** | your@email.com |
+| 🔗 **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
 
 ---
 
-
-
 <div align="center">
-
- <i>"The quieter you become, the more you are able to hear." — Kali Linux motto</i>
-
+  <i>"The quieter you become, the more you are able to hear." — Kali Linux</i>
 </div>
