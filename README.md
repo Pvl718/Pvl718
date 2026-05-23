@@ -86,13 +86,7 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 | PortSwigger |Api Testing | RU/EN | [в процессе...] |
 | PortSwigger |XSS | RU/EN | [в процессе...] |
 | PortSwigger |CSRF | RU/EN | [в процессе...] |
-| PortSwigger |XXE injection | RU/EN | [в процессе...] | 
-| PortSwigger | Authentication vulnerabilities | RU/EN | [в процессе...] |
-| PortSwigger |Business logic vulnerabilities | RU/EN | [в процессе...] |
-| PortSwigger |JWT attacks | RU/EN | [в процессе...] |
-| PortSwigger |DOM-based vulnerabilities | RU/EN | [в процессе...] |
-| PortSwigger |OAuth 2.0 authentication vulnerabilities | RU/EN | [в процессе...] |
-| PortSwigger |Access control vulnerabilities and privilege escalation | RU/EN | [в процессе...] |
+| TryHackMe | Windows Jump (Priv Esc: guest → SYSTEM) | RU | [writeup](https://github.com/Pvl718/Windows-Jump_THM) |
 
 
 📁 [Все writeups → github.com/Pvl718/ctf-writeups](https://github.com/Pvl718/ctf-writeups)
