@@ -81,13 +81,8 @@ Currently: TryHackMe → HackTheBox → OSCP 🔥
 | PortSwigger | SQL Injection (18 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_RU.md) [ EN](https://github.com/Pvl718/ctf-writeups/blob/main/sqli_walkthrough_EN.md)|
 | PortSwigger | NoSQL Injection (4 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/nosqli_walkthrough_RU.md) [EN](https://github.com/Pvl718/ctf-writeups/blob/main/nosqli_walkthrough_EN.md) |
 | PortSwigger | File Upload Vulnerabilities (7 labs) | RU/EN | [RU](https://github.com/Pvl718/ctf-writeups/blob/main/fileupload_walkthrough_RU.md) [EN](https://github.com/Pvl718/ctf-writeups/blob/main/fileupload_walkthrough_EN.md) |
-| PortSwigger |Clickjacking | RU/EN | [в процессе...] |
-| PortSwigger |Web LLM Attacks | RU/EN | [в процессе...] |
-| PortSwigger |Api Testing | RU/EN | [в процессе...] |
-| PortSwigger |XSS | RU/EN | [в процессе...] |
-| PortSwigger |CSRF | RU/EN | [в процессе...] |
 | TryHackMe | Windows Jump (Priv Esc: guest → SYSTEM) | RU | [writeup](https://github.com/Pvl718/Windows-Jump_THM) |
-
+| TryHackMe | GameBuzz (Pickle RCE → PwnKit) | EN | [writeup](https://github.com/Pvl718/GameBuzz-THM-Writeup) |
 
 📁 [Все writeups → github.com/Pvl718/ctf-writeups](https://github.com/Pvl718/ctf-writeups)
 
