@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕶️ woma718
+#  woma
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=>>+whoami;Cybersecurity+Researcher;CTF+Player+%E2%9A%91;Future+OSCP;Hack+the+Planet+%F0%9F%94%A5" />
 
